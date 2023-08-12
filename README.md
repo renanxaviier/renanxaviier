@@ -1,16 +1,18 @@
-### Hi there 👋
+# Renan Xavier
 
-<!--
-**renanxaviier/renanxaviier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá a todos!
 
-Here are some ideas to get you started:
+Sou Renan Xavier, Gestor de Comunicação e Inovação. Tenho formação em Marketing pela Estácio e estou quase formado em Publicidade e Propaganda na UNI7. Atualmente, estou estudando FullStack pela Digital College e UX Design pela Danki Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades 
+
+- **Softwares de Edição Adobe:** Photoshop, Illustrator, InDesign, Adobe XD, Premiere e After Effects.
+- **Figma:** Criação de protótipos e designs de UI.
+- **SketchUp:** Modelagem 3D.
+- **Piloto de Drone:** Captura de imagens e vídeos aéreos.
+
+## Minhas Redes
+
+- [LinkedIn](https://www.linkedin.com/in/renan-xavier-78679719b/)
+- [GitHub](https://github.com/renanxaviier)
+- [Instagram](https://www.instagram.com/renanxaviier/)
